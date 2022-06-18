@@ -34,8 +34,8 @@
    },
    "outputs": [],
    "source": [
-    "NAME = \"Dimitrios Sourlantzis\"\n",
-    "AEM = \"9868\""
+    "NAME = "Dimitrios Sourlantzis""
+    "COURSE = "Machine Learning - AUTH""
    ]
   },
   {
